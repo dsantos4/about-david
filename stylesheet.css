@@ -4,3 +4,10 @@
     text-align: center;
     background-color: lightpink;
 }
+
+.div {
+    width: 320px;
+    padding: 10px;
+    border: 5px white;
+    margin: 10;
+}
